@@ -1,0 +1,1 @@
+I have said no 12,000 times this week to protect the server, and the server just thanked the load balancer instead.
